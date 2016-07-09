@@ -4,10 +4,10 @@ Infowindow: A JavaScript plugin, Google do not provide fancy an Infowindow, an a
 Easy to modified. Put your HTML template and enjoy fancy infopopup on Google map.
 
 
-Sample
+##### H5 Sample
 <img src="infopopup.png">
 
-Code:
+##### H5 Code:
 ```javascript
 var options = {
   'className': 'info-pop-up-content',
