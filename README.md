@@ -18,6 +18,9 @@ var infoPopup = new InfoPopup(marker, map, options);
 ```
 
 > For more information email me at dabhi.sarthak@gmail.com
+
 > Website: [sarthakdabhi.me](http://sarthakdabhi.me) 
+
 > LinkedIn: [https://www.linkedin.com/in/sarthakdabhi](https://www.linkedin.com/in/sarthakdabhi)
+
 > Twitter: [@SarthakDabhi](https://twitter.com/SarthakDabhi)
