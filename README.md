@@ -3,6 +3,7 @@ Infowindow: A JavaScript plugin, Google do not provide fancy an Infowindow, an a
 
 Easy to modified. Put your HTML template and enjoy fancy infopopup on Google map.
 
+##### Used in Wwhere startup [Wwhere](https://wwhere.is)
 
 ##### Sample
 <img src="infopopup.png">
